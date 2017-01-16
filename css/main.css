@@ -1,0 +1,48 @@
+body{
+   font-family: 'Lato', sans-serif;
+   font-weight: 300;
+   font-size: 16px;
+
+}
+
+.text-thin {
+  font-weight: 110;
+  color:#2d3c49;
+}
+
+.text-muted {
+  color: #7d97ad;
+  font-size: 35px;
+  font-weight: bold;
+  letter-spacing: 0.1em;
+  padding-left: 10px;
+}
+
+.logo{
+  margin-top: 50px;
+}
+
+hr {
+background-color:#7d97ad;
+height: 3px;
+}
+
+ .svg img {
+   width: 100%;
+   margin-bottom: 25px;
+ }
+
+.thumbnail img{
+  max-width: 100%;
+  margin-top: 10px;
+  border : 5px inset #02b3e4;
+}
+
+.social {
+  margin-top: 10px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+ .social .fa {
+   color: #02b3e4;
+ }

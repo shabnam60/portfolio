@@ -1,0 +1,17 @@
+
+@media screen and (min-width: 100px) and (max-width: 500px) {
+  .text-title {
+    font-size: 15px;
+   }
+   .text-thin {
+     font-size: 30px;
+   }
+   .text-muted {
+    font-size: 25px;
+    font-weight: bold;
+   }
+   .text-center h3 {
+     font-size: 18px;
+   }
+
+  }
